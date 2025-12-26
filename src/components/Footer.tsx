@@ -119,7 +119,7 @@ export default function Footer({ onNavigate }: FooterProps) {
         </div>
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400 text-sm">
-          <p>Copyright © 2024 ICRDT - International Council for Robotics & Drone Technology. All rights reserved.</p>
+          <p>Copyright © 2024 ICRDT - Indian Council for Robotics & Drone Technology. All rights reserved.</p>
           <p className="mt-2">ISO 9001:2015 Certified Organization</p>
         </div>
       </div>

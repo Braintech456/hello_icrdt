@@ -37,7 +37,7 @@ export default function Navigation({ currentPage, onNavigate }: NavigationProps)
               ICRDT
             </div>
             <div className="ml-3 hidden sm:block">
-              <div className="text-xs text-gray-600 font-medium">International Council for</div>
+              <div className="text-xs text-gray-600 font-medium">Indian Council for</div>
               <div className="text-xs text-gray-600 font-medium">Robotics & Drone Technology</div>
             </div>
           </div>
